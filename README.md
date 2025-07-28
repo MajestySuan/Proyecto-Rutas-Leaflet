@@ -43,7 +43,7 @@ cd Proyecto-Rutas-Leaflet
  ```
     npm install
   ```
-- Iniciar el servidor
+ Iniciar el servidor
   ```
     node server.js
   ```
