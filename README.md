@@ -40,8 +40,13 @@ git clone https://github.com/MajestySuan/Proyecto-Rutas-Leaflet
 cd Proyecto-Rutas-Leaflet
 
 3. Para pruebas en servidor local (opcional, requiere Node.js):
-- npm install
-- node server.js
+ ```
+    npm install
+  ```
+- Iniciar el servidor
+  ```
+    node server.js
+  ```
 
 4. Abre `index.html` o `mapa.html` en tu navegador para comenzar a usar la aplicación.
 
